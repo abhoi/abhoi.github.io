@@ -25,28 +25,28 @@ color: #f09228;
 text-decoration:none;
 }
 body,td,th,tr,p,a {
-font-family: 'PT Sans', 'Roboto', 'Lato', Verdana, Helvetica, sans-serif;
+font-family: 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 14px
 }
 strong {
-font-family: 'PT Sans', 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 14px;
 }
 heading {
-font-family: 'PT Sans', 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 22px;
 }
 papertitle {
-font-family: 'PT Sans', 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 14px;
 font-weight: 700
 }
 name {
-font-family: 'PT Sans', 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 32px;
 }
 quote {
-font-family: 'PT Sans', 'Roboto';
+font-family: 'Roboto';
 }
 .one
 {
