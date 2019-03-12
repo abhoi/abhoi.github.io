@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i');
 
 ul {
 	text-align: justify;
@@ -27,28 +28,28 @@ color: #f09228;
 text-decoration:none;
 }
 body,td,th,tr,p,a {
-font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Open Sans', 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 14px
 }
 strong {
-font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Open Sans', 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 14px;
 }
 heading {
-font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Open Sans', 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 22px;
 }
 papertitle {
-font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Open Sans', 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 14px;
 font-weight: 700
 }
 name {
-font-family: 'Roboto', Verdana, Helvetica, sans-serif;
+font-family: 'Open Sans', 'Roboto', Verdana, Helvetica, sans-serif;
 font-size: 32px;
 }
 quote {
-font-family: 'Roboto';
+font-family: 'Open Sans', 'Roboto';
 }
 .one
 {
