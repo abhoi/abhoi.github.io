@@ -27,28 +27,28 @@ color: #f09228;
 text-decoration:none;
 }
 body,td,th,tr,p,a {
-font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
+font-family: 'Lucida Grande', Verdana, Helvetica, sans-serif;
 font-size: 14px
 }
 strong {
-font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
+font-family: 'Lucida Grande', Verdana, Helvetica, sans-serif;
 font-size: 14px;
 }
 heading {
-font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
+font-family: 'Lucida Grande', Verdana, Helvetica, sans-serif;
 font-size: 22px;
 }
 papertitle {
-font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
+font-family: 'Lucida Grande', Verdana, Helvetica, sans-serif;
 font-size: 14px;
 font-weight: 700
 }
 name {
-font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
+font-family: 'Lucida Grande', Verdana, Helvetica, sans-serif;
 font-size: 32px;
 }
 quote {
-font-family: 'Open Sans';
+font-family: 'Lucida Grande';
 }
 .one
 {

@@ -70,7 +70,7 @@
 		    <li><strong>[Dec 2018]</strong> Continuing my internship at CCC Information Services for the Fall 2018, Winter 2018, and Spring 2019 semester.</li>
     		<li><strong>[Aug 2018]</strong> Featured on Intel's website discussing my work, computer vision problems, and how Intel can help. Check it out <strong><a href="https://software.intel.com/en-us/blogs/2018/08/03/ai-student-ambassador-amlaan-bhoi-solving-computer-vision-problems-through-machine">here</a></strong>!</li>
     		<li><strong>[Jun 2018]</strong> Presented poster on <a href="https://www.dropbox.com/s/4329409ls1t5m2i/DenseNet-poster.pdf?dl=0"><i>Tiramisu DenseNet Architecture for Precise Segmentation</i></a> at Intel AI Booth at <a href="https://www.linkedin.com/feed/update/urn:li:activity:6415319016641949696/">CVPR 2018</a>.</li>
-    		<li><strong>[May 2018]</strong> Joined as an Intern, R&D in the Photo Analytics and Machine Learning group at CCC Information Services.</li>
+    		<li><strong>[May 2018]</strong> Joined as an Research Software Engineer Intern, Computer Vision in the Photo Analytics and Machine Learning group at CCC Information Services.</li>
     		<li><strong>[Apr 2018]</strong> Joined Intel AI Ambassador Program.</li>
     		<li><strong>[Jan 2018]</strong> Mentioned in <a href="https://news.ucsc.edu/2018/01/cruzhacks.html">UCSC newsletter</a> for developing a low-poly VR application (Google Pixel 2 + DayDream) at CruzHacks 2017.</li>
     		<li><strong>[Oct 2017]</strong> Awarded <a href="https://devpost.com/software/lifeguard-io"><strong>Best Microsoft Hack</strong></a> at HackHarvard 2017.</li>
@@ -89,6 +89,62 @@
   </table>
 
   <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <tr onmouseout="depth_stop()" onmouseover="depth_start()" >
+      <td width="25%">
+        <div class="one">
+        <div class="two" id = 'depth_image'><img class="portrait_image" src='papers/depth/after.png'></div>
+        <img class="portrait_image" src='papers/depth/before.png'>
+        </div>
+        <script type="text/javascript">
+        function depth_start() {
+          document.getElementById('depth_image').style.opacity = "1";
+        }
+        function depth_stop() {
+          document.getElementById('depth_image').style.opacity = "0";
+        }
+        depth_stop()
+        </script>
+      </td>
+      <td valign="top" width="75%">
+    <a href="https://arxiv.org/abs/1901.09402">
+            <papertitle>Monocular Depth Estimation: A Survey</papertitle>
+    </a>
+    <br>
+          <strong>Amlaan Bhoi</strong>
+      <br>
+        <em>arXiv Preprint</em>, 2019 <br>
+        <a href="https://arxiv.org/abs/1901.09402">arxiv</a>
+        <p align="justify">Monocular depth estimation is often described as an ill-posed and inherently ambiguous problem. Estimating depth from 2D images is a crucial step in scene reconstruction, 3Dobject recognition, segmentation, and detection. The problem can be framed as: given a single RGB image as input, predict a dense depth map for each pixel. This problem is worsened by the fact that most scenes have large texture and structural variations, object occlusions, and rich geometric detailing. All these factors contribute to difficulty in accurate depth estimation. In this paper, we review five papers that attempt to solve the depth estimation problem with various techniques including supervised, weakly-supervised, and unsupervised learning techniques. We then compare these papers and understand the improvements made over one another. Finally, we explore potential improvements that can aid to better solve this problem.</p>
+      </td>
+  </tr>
+  <tr onmouseout="star_stop()" onmouseover="star_start()" >
+      <td width="25%">
+        <div class="one">
+        <div class="two" id = 'star_image'><img class="portrait_image" src='papers/star/after.png'></div>
+        <img class="portrait_image" src='papers/star/before.png'>
+        </div>
+        <script type="text/javascript">
+        function star_start() {
+          document.getElementById('star_image').style.opacity = "1";
+        }
+        function star_stop() {
+          document.getElementById('star_image').style.opacity = "0";
+        }
+        star_stop()
+        </script>
+      </td>
+      <td valign="top" width="75%">
+    <a href="https://arxiv.org/pdf/1901.09403">
+            <papertitle>Spatio-temporal Action Recognition: A Survey</papertitle>
+    </a>
+    <br>
+          <strong>Amlaan Bhoi</strong>
+      <br>
+        <em>arXiv Preprint</em>, 2019 <br>
+        <a href="https://arxiv.org/pdf/1901.09403">arxiv</a>
+        <p align="justify">The task of action recognition or action detection involves analyzing videos and determining what action or motion is being performed. The primary subject of these videos are predominantly humans performing some action. However, this requirement can be relaxed to generalize over other subjects such as animals or robots. The applications can range from anywhere between human-computer inter-action to automated video editing proposals. When we consider spatiotemporal action recognition, we deal with action localization. This task not only involves determining what action is being performed but also when and where itis being performed in said video. This paper aims to survey the plethora of approaches and algorithms attempted to solve this task, give a comprehensive comparison between them, explore various datasets available for the problem, and determine the most promising approaches.</p>
+      </td>
+    </tr>
     <tr onmouseout="style_stop()" onmouseover="style_start()" >
       <td width="25%">
         <div class="one">
