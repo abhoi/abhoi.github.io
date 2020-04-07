@@ -26,24 +26,24 @@ text-decoration:none;
 }
 body,td,th,tr,p,a {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
-font-size: 14px
+font-size: 12px
 }
 strong {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
-font-size: 14px;
+font-size: 12px;
 }
 heading {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
-font-size: 22px;
+font-size: 20px;
 }
 papertitle {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
-font-size: 14px;
+font-size: 12px;
 font-weight: 700
 }
 name {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
-font-size: 32px;
+font-size: 30px;
 }
 quote {
 font-family: 'Lucida Grande';
