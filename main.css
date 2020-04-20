@@ -26,11 +26,11 @@ text-decoration:none;
 }
 body,td,th,tr,p,a {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
-font-size: 12px
+font-size: 14px
 }
 strong {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
-font-size: 12px;
+font-size: 14px;
 }
 heading {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
@@ -38,7 +38,7 @@ font-size: 20px;
 }
 papertitle {
 font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
-font-size: 12px;
+font-size: 14px;
 font-weight: 700
 }
 name {
