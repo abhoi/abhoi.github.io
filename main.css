@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700&display=swap" rel="stylesheet">
+
 ul {
 	text-align: justify;
 }
@@ -25,28 +27,28 @@ color: #f09228;
 text-decoration:none;
 }
 body,td,th,tr,p,a {
-font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
+font-family: 'Lato', 'Lucida Grande', Helvetica, sans-serif, Verdana;
 font-size: 14px
 }
 strong {
-font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
+font-family: 'Lato', 'Lucida Grande', Helvetica, sans-serif, Verdana;
 font-size: 14px;
 }
 heading {
-font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
+font-family: 'Lato', 'Lucida Grande', Helvetica, sans-serif, Verdana;
 font-size: 20px;
 }
 papertitle {
-font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
+font-family: 'Lato', 'Lucida Grande', Helvetica, sans-serif, Verdana;
 font-size: 14px;
 font-weight: 700
 }
 name {
-font-family: 'Lucida Grande', Helvetica, sans-serif, Verdana;
+font-family: 'Lato', 'Lucida Grande', Helvetica, sans-serif, Verdana;
 font-size: 30px;
 }
 quote {
-font-family: 'Lucida Grande';
+font-family: 'Lato', 'Lucida Grande';
 }
 .one
 {
