@@ -36,10 +36,14 @@ heading {
 font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
 font-size: 20px;
 }
+title {
+font-size: 24px;
+font-weight: 700;
+}
 papertitle {
 font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
 font-size: 14px;
-font-weight: 700
+font-weight: 700;
 }
 name {
 font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
