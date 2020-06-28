@@ -6,6 +6,7 @@ ul {
     border-radius: 50%;
     max-width: 100%;
     height: auto;
+    width: 100%;
 }
 
 .portrait_image {
@@ -24,33 +25,30 @@ a:focus, a:hover {
 color: #f09228;
 text-decoration:none;
 }
-body,td,th,tr,p,a {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 14px;
-}
-strong {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
+body,td,th,tr,p,a,strong {
+font-family: Arial, Helvetica, 'Lucida Grande', sans-serif, Verdana;
 font-size: 14px;
 }
 heading {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 20px;
+font-family: Arial, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-size: 24px;
+font-weight: 700;
 }
-title {
+name {
 font-size: 24px;
 font-weight: 700;
 }
 papertitle {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-family: Arial, Helvetica, 'Lucida Grande', sans-serif, Verdana;
 font-size: 14px;
 font-weight: 700;
 }
 name {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-family: Arial, Helvetica, 'Lucida Grande', sans-serif, Verdana;
 font-size: 30px;
 }
 quote {
-font-family: Helvetica, 'Lucida Grande';
+font-family: Arial, Helvetica, 'Lucida Grande', sans-serif, Verdana;
 }
 .one
 {
