@@ -1,3 +1,37 @@
+@font-face {
+    font-family: "SourceSansPro";
+    src: url("fonts/SourceSansPro-Italic.ttf");
+    font-weight: italic;
+}
+
+@font-face {
+    font-family: "SourceSansPro";
+    src: url("fonts/SourceSansPro-Black.ttf");
+    font-weight: black;
+}
+
+@font-face {
+    font-family: "SourceSansPro";
+    src: url("fonts/SourceSansPro-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "SourceSansPro";
+    src: url("fonts/SourceSansPro-Regular.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+	font-family: "AbrilFatface";
+	src: url("fonts/AbrilFatface-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Pacifico";
+    src: url("fonts/Pacifico-Regular.ttf");
+}
+
 ul {
 	text-align: justify;
 }
@@ -13,43 +47,54 @@ ul {
     height: 160px;
     width: 160px;
 }
-
+em {
+    font-family: SourceSansPro;
+    font-weight: italic;
+}
 img {
-    	border-radius: 1.5%;
+border-radius: 1.5%;
 }
 a {
-color: #1772d0;
-text-decoration:none;
+    text-decoration:none;
 }
 a:focus, a:hover {
-color: #f09228;
-text-decoration:none;
+    text-decoration:none;
 }
-body,td,th,tr,p,a,strong {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 14px;
-line-height: 1.4em;
+a:visited {
+    text-decoration: none;
+}
+body,td,th,tr,p,strong {
+font-family: SourceSansPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-size: 1em;
+line-height: 1.2em;
+color: #232F3E;
 }
 heading {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 22px;
-font-weight: 700;
+font-family: SourceSansPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-size: 1.5em;
+font-weight: bold;
+color: #232F3E;
 }
-name {
-font-size: 24px;
-font-weight: 700;
+emphasis {
+    font-family: Pacifico;
+    /*color: #232F3E;*/
 }
 papertitle {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 14px;
+font-family: SourceSansPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-size: 1em;
 font-weight: 700;
+text-decoration: underline;
 }
 name {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 30px;
+font-family: AbrilFatface, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-size: 2em;
+font-weight: 200;
+color: #232F3E;
 }
 quote {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-family: Pacifico, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-size: 1em;
+color: #232F3E;
 }
 .one
 {
