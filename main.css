@@ -1,4 +1,10 @@
 @font-face {
+    font-family: "MavenPro";
+    src: url("fonts/MavenPro-VariableFont_wght.ttf");
+    font-weight: bold;
+}
+
+@font-face {
     font-family: "SourceSansPro";
     src: url("fonts/SourceSansPro-Italic.ttf");
     font-weight: italic;
@@ -55,9 +61,11 @@ img {
 border-radius: 1.5%;
 }
 a {
+    /*color: #232F3E;*/
     text-decoration:none;
 }
 a:focus, a:hover {
+    color: #FF9900;
     text-decoration:none;
 }
 a:visited {
@@ -65,35 +73,35 @@ a:visited {
 }
 body,td,th,tr,p,strong {
 font-family: SourceSansPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 1em;
-line-height: 1.2em;
+font-size: 0.99em;
+line-height: 1em;
 color: #232F3E;
 }
 heading {
-font-family: SourceSansPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 1.5em;
-font-weight: bold;
+font-family: MavenPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-size: 1.3em;
+font-weight: 300;
 color: #232F3E;
 }
 emphasis {
     font-family: Pacifico;
-    /*color: #232F3E;*/
 }
 papertitle {
 font-family: SourceSansPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
 font-size: 1em;
 font-weight: 700;
-text-decoration: underline;
+text-decoration: none;
 }
 name {
-font-family: AbrilFatface, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-family: MavenPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
 font-size: 2em;
-font-weight: 200;
+font-weight: 300;
 color: #232F3E;
 }
 quote {
 font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
 color: #232F3E;
+font-size: 0.90em;
 }
 .one
 {
