@@ -5,26 +5,26 @@
 }
 
 @font-face {
-    font-family: "SourceSansPro";
-    src: url("fonts/SourceSansPro-Italic.ttf");
+    font-family: "Lato";
+    src: url("fonts/Lato-Italic.ttf");
     font-weight: italic;
 }
 
 @font-face {
-    font-family: "SourceSansPro";
-    src: url("fonts/SourceSansPro-Black.ttf");
+    font-family: "Lato";
+    src: url("fonts/Lato-Black.ttf");
     font-weight: black;
 }
 
 @font-face {
-    font-family: "SourceSansPro";
-    src: url("fonts/SourceSansPro-Bold.ttf");
+    font-family: "Lato";
+    src: url("fonts/Lato-Bold.ttf");
     font-weight: bold;
 }
 
 @font-face {
-    font-family: "SourceSansPro";
-    src: url("fonts/SourceSansPro-Regular.ttf");
+    font-family: "Lato";
+    src: url("fonts/Lato-Regular.ttf");
     font-weight: normal;
 }
 
@@ -53,8 +53,11 @@ ul {
     height: 160px;
     width: 160px;
 }
+.news {
+
+}
 em {
-    font-family: SourceSansPro;
+    font-family: Lato;
     font-weight: italic;
 }
 img {
@@ -66,19 +69,19 @@ a {
 }
 a:focus, a:hover {
     color: #FF9900;
-    text-decoration:none;
+    text-decoration:underline;
 }
 a:visited {
     text-decoration: none;
 }
 body,td,th,tr,p,strong {
-font-family: SourceSansPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
-font-size: 0.99em;
-line-height: 1em;
+font-family: Lato, Helvetica, sans-serif;
+font-size: 1em;
+line-height: 1.2em;
 color: #232F3E;
 }
 heading {
-font-family: MavenPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-family: MavenPro, Helvetica, sans-serif;
 font-size: 1.3em;
 font-weight: 300;
 color: #232F3E;
@@ -87,19 +90,19 @@ emphasis {
     font-family: Pacifico;
 }
 papertitle {
-font-family: SourceSansPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-family: Lato, Helvetica, sans-serif;
 font-size: 1em;
 font-weight: 700;
 text-decoration: none;
 }
 name {
-font-family: MavenPro, Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-family: MavenPro, Helvetica, sans-serif;
 font-size: 2em;
 font-weight: 300;
 color: #232F3E;
 }
 quote {
-font-family: Helvetica, 'Lucida Grande', sans-serif, Verdana;
+font-family: Lato, Helvetica, sans-serif;
 color: #232F3E;
 font-size: 0.90em;
 }
