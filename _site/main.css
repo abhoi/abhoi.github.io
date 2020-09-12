@@ -57,7 +57,7 @@ ul {
 
 }
 em {
-    font-family: Lato;
+    font-family: Helvetica;
     font-weight: italic;
 }
 img {
@@ -75,14 +75,14 @@ a:visited {
     text-decoration: none;
 }
 body,td,th,tr,p,strong {
-font-family: Lato, Helvetica, sans-serif;
-font-size: 1em;
-line-height: 1.2em;
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+line-height: 14px;
 color: #232F3E;
 }
 heading {
 font-family: MavenPro, Helvetica, sans-serif;
-font-size: 1.3em;
+font-size: 16px;
 font-weight: 300;
 color: #232F3E;
 }
@@ -90,21 +90,21 @@ emphasis {
     font-family: Pacifico;
 }
 papertitle {
-font-family: Lato, Helvetica, sans-serif;
-font-size: 1em;
+font-family: Helvetica, sans-serif;
+font-size: 14px;
 font-weight: 700;
 text-decoration: none;
 }
 name {
 font-family: MavenPro, Helvetica, sans-serif;
-font-size: 2em;
+font-size: 20px;
 font-weight: 300;
 color: #232F3E;
 }
 quote {
-font-family: Lato, Helvetica, sans-serif;
+font-family: Helvetica, sans-serif;
 color: #232F3E;
-font-size: 0.90em;
+font-size: 12px;
 }
 .one
 {
