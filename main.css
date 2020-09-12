@@ -50,8 +50,8 @@ ul {
 }
 
 .portrait_image {
-    height: 160px;
-    width: 160px;
+    height: 150px;
+    width: 150px;
 }
 .news {
 
@@ -64,7 +64,6 @@ img {
 border-radius: 1.5%;
 }
 a {
-    /*color: #232F3E;*/
     text-decoration:none;
 }
 a:focus, a:hover {
@@ -76,13 +75,13 @@ a:visited {
 }
 body,td,th,tr,p,strong {
 font-family: Helvetica, sans-serif;
-font-size: 14px;
-line-height: 14px;
+font-size: 1em;
+line-height: 1.2em;
 color: #232F3E;
 }
 heading {
 font-family: MavenPro, Helvetica, sans-serif;
-font-size: 16px;
+font-size: 1.3em;
 font-weight: 300;
 color: #232F3E;
 }
@@ -91,31 +90,31 @@ emphasis {
 }
 papertitle {
 font-family: Helvetica, sans-serif;
-font-size: 14px;
+font-size: 0.96em;
 font-weight: 700;
 text-decoration: none;
 }
 name {
 font-family: MavenPro, Helvetica, sans-serif;
-font-size: 20px;
+font-size: 2em;
 font-weight: 300;
 color: #232F3E;
 }
 quote {
 font-family: Helvetica, sans-serif;
 color: #232F3E;
-font-size: 12px;
+font-size: 0.90em;
 }
 .one
 {
-width: 160px;
-height: 160px;
+width: 150px;
+height: 150px;
 position: relative;
 }
 .two
 {
-width: 160px;
-height: 160px;
+width: 150px;
+height: 150px;
 position: absolute;
 transition: opacity .2s ease-in-out;
 -moz-transition: opacity .2s ease-in-out;
