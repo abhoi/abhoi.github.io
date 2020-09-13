@@ -28,7 +28,7 @@
 }
 
 ul {
-    padding-left: 1rem;
+    padding-left: 1.2rem;
 }
 
 .profile-pic {
@@ -64,7 +64,7 @@ img {
 	border-radius: 1.5%;
 }
 a {
-    text-decoration:none;
+    text-decoration: none;
 }
 a:focus, a:hover {
     color: #FF9900;
@@ -73,6 +73,7 @@ a:focus, a:hover {
 a:visited {
     text-decoration: none;
 }
+
 body,td,th,tr,strong {
 	font-family: Lato, sans-serif;
 	font-size: 1rem;
@@ -84,7 +85,6 @@ body,td,th,tr,strong {
 }
 
 li {
-    /*line-height: 1rem;*/
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
