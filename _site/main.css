@@ -54,9 +54,6 @@ newstitle {
 	font-weight: bold;
 }
 
-newspoint {
-}
-
 em {
     font-weight: italic;
 }
@@ -64,6 +61,7 @@ img {
 	border-radius: 1.5%;
 }
 a {
+    color: #0066CC;
     text-decoration: none;
 }
 a:focus, a:hover {
@@ -71,6 +69,7 @@ a:focus, a:hover {
     text-decoration:underline;
 }
 a:visited {
+    color: purple;
     text-decoration: none;
 }
 
