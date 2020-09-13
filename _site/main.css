@@ -135,6 +135,3 @@ foot {
    -moz-transition: opacity .2s ease-in-out;
    -webkit-transition: opacity .2s ease-in-out;
 }
-span.highlight {
-    background-color: #ffffd0;
-}
