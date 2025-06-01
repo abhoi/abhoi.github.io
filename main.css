@@ -75,7 +75,7 @@ a:visited {
 }
 
 body,td,th,tr,strong {
-	font-family: Lato, sans-serif;
+	font-family: sans-serif;
 	font-size: 0.90rem;
 	color: #232F3E;
 	margin-block-start: 1rem;
@@ -90,7 +90,7 @@ li {
 }
 
 heading {
-    font-family: Lato, sans-serif;
+    font-family: sans-serif;
     font-size: 1.25rem;
     font-weight: 700;
     color: #232F3E;
@@ -99,12 +99,12 @@ emphasis {
     font-family: Pacifico;
 }
 papertitle {
-    font-family: Lato, sans-serif;
+    font-family: sans-serif;
     font-weight: 700;
     text-decoration: none;
 }
 name {
-	font-family: Lato, Lato, sans-serif;
+	font-family: sans-serif;
 	font-size: 2rem;
 	font-weight: 700;
 	color: #232F3E;
