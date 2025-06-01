@@ -33,8 +33,9 @@ ul {
 
 .profile-pic {
     border-style: solid;
-    border-color: #FF9900;
-    border-radius: 50%;
+    border-color: #2b3970b7;
+    border-width: 3px;
+    border-radius: 5%;
     max-width: 100%;
     height: auto;
     width: 100%;
@@ -58,7 +59,7 @@ em {
     font-weight: italic;
 }
 img {
-	border-radius: 1.5%;
+	border-radius: 2.5%;
 }
 a {
     color: #0066CC;
